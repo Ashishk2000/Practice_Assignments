@@ -1,2 +1,2 @@
-# ExelR_Assignments
-ExelR assignments
+# Practice assignmens
+Practice assignments
